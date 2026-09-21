@@ -1,6 +1,6 @@
-# Yangon Weather Analytics
+# 🌦️ Yangon Weather Analytics
 
-LSTM-based weather forecasting system that analyzes historical weather data from Yangon and predicts next-day temperature using adaptive scaling, feature attention, and temporal attention.
+LSTM-based weather forecasting system that analyzes historical weather data from Yangon and predicts **next-day temperature** using PCA, adaptive scaling, feature attention, and temporal attention.
 
 ## Tech Stack
 
@@ -28,7 +28,7 @@ LSTM-based weather forecasting system that analyzes historical weather data from
 ### Dataset
 
 * Yangon International Airport (VYYY)
-* Historical weather data (2015–2024)
+* Historical weather data from 2015–2024
 * 7-day lookback window
 
 ### Evaluation
